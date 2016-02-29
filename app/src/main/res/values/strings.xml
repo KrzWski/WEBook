@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WEBook</string>
+    <string name="welcomeInfo">Witaj użytkowniku</string>
+    <string name="readBook">1. Czytaj książki</string>
+    <string name="goNext">Ok, dalej!</string>
+    <string name="title_activity_about">O mnie</string>
+    <string name="author">Autor aplikacji: Krzysztof Jankowski</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+</resources>
